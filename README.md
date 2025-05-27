@@ -60,8 +60,8 @@ Edit their speed values and test to see how it looks. Drag all three animals int
 
 ## PROGRAM :
 
-## DEVELOPED BY : Onteddu Sirisha Reddy
-## REG NO : 212222230103
+## DEVELOPED BY :MADHAVAN K
+## REG NO : 212224220054
 
 ## PLAYER CONTROL :
 
